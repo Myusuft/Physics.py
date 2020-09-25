@@ -1,0 +1,4 @@
+import fisika
+import mtk
+kecepatan = fisika.kecepatan(20,200)
+print(kecepatan)
